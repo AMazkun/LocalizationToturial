@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Localizable.xcstrings" source-language="en" target-language="uk" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
+    </header>
+    <body>
+      <trans-unit id="Also %lld mates" xml:space="preserve">
+        <source>Also %lld mates</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Confectionery %lld to visit" xml:space="preserve">
+        <source>Confectionery %lld to visit</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hello, %@" xml:space="preserve">
+        <source>Hello, %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hello, friends!" xml:space="preserve">
+        <source>Hello, friends!</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hold on there! Limited access? Let's see if we can fix that. " xml:space="preserve">
+        <source>Hold on there! Limited access? Let's see if we can fix that. </source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="How about pictures :&#10;%@" xml:space="preserve">
+        <source>How about pictures :
+%@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Let ask them" xml:space="preserve">
+        <source>Let ask them</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lets have a party!" xml:space="preserve">
+        <source>Lets have a party!</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Looks like someone is camera shy!" xml:space="preserve">
+        <source>Looks like someone is camera shy!</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Uh oh! Seems like your parents locked down the camera.  Ask for permission nicely!" xml:space="preserve">
+        <source>Uh oh! Seems like your parents locked down the camera.  Ask for permission nicely!</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unexpected goes wrong..." xml:space="preserve">
+        <source>Unexpected goes wrong...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="We have %@ $" xml:space="preserve">
+        <source>We have %@ $</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You got the moves! Let's boogie to the gallery." xml:space="preserve">
+        <source>You got the moves! Let's boogie to the gallery.</source>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="LocalizationToturial-InfoPlist.xcstrings" source-language="en" target-language="uk" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>LocalizationToturial</source>
+        <target state="translated">Обучалка для інших мов</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
+        <source>Please give access to photo librarty</source>
+        <target state="translated">Будь ласка надайте доступ до галереї!</target>
+        <note>Privacy - Photo Library Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

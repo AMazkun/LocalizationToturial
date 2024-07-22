@@ -1,0 +1,230 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Also %lld mates" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Також %lld друзів"
+          }
+        }
+      }
+    },
+    "Aww, shucks. Maybe next time?  " : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "От, лайно. Можливо, наступного разу?"
+          }
+        }
+      }
+    },
+    "Confectionery %lld to visit" : {
+      "localizations" : {
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кавʼярень %lld сходити"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кавʼярень %lld сходити"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "В одну кавʼярню сходити"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кавʼярень %lld сходити"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Heila" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хейла"
+          }
+        }
+      }
+    },
+    "Hello, %@" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Привіт, %@"
+          }
+        }
+      }
+    },
+    "Hello, friends!" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Привіт, друзі!"
+          }
+        }
+      }
+    },
+    "Hold on there! Limited access? Let's see if we can fix that. " : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Стривайте, Обмежений доступ, треба це вирішити"
+          }
+        }
+      }
+    },
+    "How about pictures :\n%@" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Що там з фотками :\n%@"
+          }
+        }
+      }
+    },
+    "Jimmy" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Джимми"
+          }
+        }
+      }
+    },
+    "Kate" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кейт"
+          }
+        }
+      }
+    },
+    "Let ask them" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Спитаймо"
+          }
+        }
+      }
+    },
+    "Lets have a party!" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Розважимося!"
+          }
+        }
+      }
+    },
+    "Looks like someone is camera shy!" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хтось не фотогенічний"
+          }
+        }
+      }
+    },
+    "Nik" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ник"
+          }
+        }
+      }
+    },
+    "Permission granted! Party time! " : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дозвіл надано! Гуляймо!"
+          }
+        }
+      }
+    },
+    "Sam" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сем"
+          }
+        }
+      }
+    },
+    "Uh oh! Seems like your parents locked down the camera.  Ask for permission nicely!" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Попросимо про доступ до фоток"
+          }
+        }
+      }
+    },
+    "Unexpected goes wrong..." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щось пішло не так"
+          }
+        }
+      }
+    },
+    "We have %@ $" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "В нас %@ $"
+          }
+        }
+      }
+    },
+    "You got the moves! Let's boogie to the gallery." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У... є на що подивитися!"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

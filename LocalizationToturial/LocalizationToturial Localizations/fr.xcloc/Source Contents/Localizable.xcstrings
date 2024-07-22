@@ -1,0 +1,45 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Also %lld mates" : {
+
+    },
+    "Confectionery %lld to visit" : {
+
+    },
+    "Hello, %@" : {
+
+    },
+    "Hello, friends!" : {
+
+    },
+    "Hold on there! Limited access? Let's see if we can fix that. " : {
+
+    },
+    "How about pictures :\n%@" : {
+
+    },
+    "Let ask them" : {
+
+    },
+    "Lets have a party!" : {
+
+    },
+    "Looks like someone is camera shy!" : {
+
+    },
+    "Uh oh! Seems like your parents locked down the camera.  Ask for permission nicely!" : {
+
+    },
+    "Unexpected goes wrong..." : {
+
+    },
+    "We have %@ $" : {
+
+    },
+    "You got the moves! Let's boogie to the gallery." : {
+
+    }
+  },
+  "version" : "1.0"
+}
